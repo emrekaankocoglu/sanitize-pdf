@@ -1,0 +1,15 @@
+{
+  "name": "pdf-node-extractor",
+  "version": "1.0.0",
+  "description": "Extract and print PDF nodes and their content using PDF.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "pdfjs-dist": "^3.11.174",
+    "yargs": "^17.7.2"
+  },
+  "type": "module"
+}
